@@ -8,3 +8,4 @@ nota_4 = float(input("Quarta nota: "))
 media = (nota_1 + nota_2 + nota_3 + nota_4) / 4
 
 print("A sua média foi", media)
+
